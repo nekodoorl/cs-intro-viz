@@ -91,7 +91,7 @@ cs-intro-viz/
 | 梁钊源（组长） | 2610250234 | 需求文档、仓库管理、PR 审核、集成与演示 | @nekodoorl |
 | 孙依晨 | 2026xxxx | 核心算法 `core/converter.py`、`core/steps.py` 与单元测试 | @member-b |
 | 姜邵峰 | 2026xxxx | 界面 `ui/main_window.py`、`ui/widgets.py` 与运行截图 | @member-c |
-| 余浩源 | 2026xxxx | `README.md`、`AI_Prompts_Log.md`、演示 PPT 与验收测试 | @member-d |
+| 余浩源 | 2610250226 | `README.md`、`AI_Prompts_Log.md`、演示 PPT 与验收测试 | @NorioTomokawa6767 |
 
 ---
 
